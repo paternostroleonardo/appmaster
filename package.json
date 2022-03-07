@@ -1,0 +1,22 @@
+{
+  "name": "appmaster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paternostroleonardo/appmaster.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paternostroleonardo/appmaster/issues"
+  },
+  "homepage": "https://github.com/paternostroleonardo/appmaster#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.1"
+  }
+}
